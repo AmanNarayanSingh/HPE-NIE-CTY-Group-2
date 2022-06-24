@@ -19,4 +19,4 @@ Deliverable:<br> Design document of Golang library for Rest/Redfish.<br>
 
 So hereby I am attaching the ppt for the project understanding:<br> https://docs.google.com/presentation/d/1B4R3KPjgumXNBsLDlwrfHBF1gBGHn-pY/edit?usp=sharing&ouid=111943377070889195268&rtpof=true&sd=true
 <br>
-Currently we are working with GET operation and soon we will be uploading the design document and code for get operation.
+Currently we had uploaded the GET operation and soon we will be uploading the design document and code for get operation.
