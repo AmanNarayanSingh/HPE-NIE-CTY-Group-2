@@ -1,5 +1,6 @@
 # HPE-NIE-CTY-Group-2
 GOLang library for HPE iLO Restful Operations
+(Team members: Aman Narayan Singh, Swathi BJ, Aditya Mishra, Shreesh Kulkarni)
 
 # How this idea matters to HPE: <br>
 HPE is leader in server software which comprises of <b>Integrated Lights out(iLO)</b>.  To manage iLO using Restful Redfish APIs, Golang library is the first step. Library should be independently used to develop new Golang tools to manage HPE servers.
