@@ -11,11 +11,14 @@ func main() {
 	// fmt.Println("Who said tea", customtext.WhoSaidTea)
 	fmt.Println(iloclient.NewILOClient().Health())
 	uid, err := iloclient.NewILOClient().GetRandomUUID()
+	id, errr := iloclient.NewILOClient().GetID()
+	ssn, er := iloclient.NewILOClient().GetSSN()
 	// var c []iloclient.UUIDStruct
-	if err != nil {
+	if err != nil || errr != nil || er != nil {
 		panic(err)
 	}
-
-	fmt.Print(uid)
+	fmt.Println("ID = ", id)
+	fmt.Println("UUID = ", uid)
+	fmt.Println("Valid_us_SSN = ", ssn)
 
 }
