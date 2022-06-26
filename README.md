@@ -6,8 +6,8 @@ GOLang library for HPE iLO Restful Operations
 HPE is leader in server software which comprises of <b>Integrated Lights out(iLO)</b>.  To manage iLO using Restful Redfish APIs, Golang library is the first step. Library should be independently used to develop new Golang tools to manage HPE servers.
 
 # Phase 1
-<b>Objective</b>:<br> Learning about Golang, Restful, Redfish, Client/Server etc.<bt>
-Description:<br> 
+<b>Objective</b>:<br> Learning about Golang, Restful, Redfish, Client/Server etc.<br>
+<b>Description:</b><br> 
 <b>The learning should include:<b/><br>
 •	What is Restful Architecture<br>
 •	Basics of Golang.<br>
