@@ -21,4 +21,20 @@ HPE is leader in server software which comprises of <b>Integrated Lights out(iLO
 So hereby I am attaching the ppt for the project understanding: <a href="https://docs.google.com/presentation/d/1B4R3KPjgumXNBsLDlwrfHBF1gBGHn-pY/edit?usp=sharing&ouid=111943377070889195268&rtpof=true&sd=true">Click here to go to the PPT</a>
 <br>
 Feature Specific Template link of the project: <a href="https://docs.google.com/document/d/1uXjuAGccvtID8626DWy_33akP-vfgpAuCmaDHO2bhhM/edit#">Feature Specific Template</a><br>
+# Phase 2
+<b>Objective</b>: Coding and debugging/testing<br> 
+<b>Description:</b><br> 
+•	Coding of GET/PUT/PATCH/POST/DELETE operations.<br>
+•	Code Review<br>
+•	Unit testing<br>
+•	Examples to demonstrate the working of library.<br>
+	
+<h2>Deliverable:</h2> Presentation of working of library using example programs.<br>
+
+<h2>References:</h2>	
+•	https://github.com/HewlettPackard/python-ilorest-library/<br>
+•	https://github.com/HewlettPackard/python-ilorest-library/tree/master/examples/Redfish/<br>
+•	https://hewlettpackard.github.io/ilo-rest-api-docs/ilo5/<br>
+•	https://www.dmtf.org/standards/redfish<br>
+
 Currently we had uploaded the GET operation and soon we will be uploading the design document and code for other operations.
