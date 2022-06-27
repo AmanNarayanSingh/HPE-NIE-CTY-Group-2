@@ -21,4 +21,4 @@ HPE is leader in server software which comprises of <b>Integrated Lights out(iLO
 So hereby I am attaching the ppt for the project understanding: <a href="https://docs.google.com/presentation/d/1B4R3KPjgumXNBsLDlwrfHBF1gBGHn-pY/edit?usp=sharing&ouid=111943377070889195268&rtpof=true&sd=true">Click here to go to the PPT</a>
 <br>
 Feature Specific Template link of the project: <a href="https://docs.google.com/document/d/1uXjuAGccvtID8626DWy_33akP-vfgpAuCmaDHO2bhhM/edit#">Feature Specific Template</a><br>
-Currently we had uploaded the GET operation and soon we will be uploading the design document and code for GET operation.
+Currently we had uploaded the GET operation and soon we will be uploading the design document and code for other operations.
